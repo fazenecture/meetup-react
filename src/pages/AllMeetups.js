@@ -1,9 +1,9 @@
-function AllMeetups(){
-    return (
-        <div>
-            <h1>Hello</h1>
-        </div>
-    );
+function AllMeetups() {
+  return (
+    <div>
+      <h1>Hello</h1>
+    </div>
+  );
 }
 
 export default AllMeetups;
